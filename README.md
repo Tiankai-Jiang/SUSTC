@@ -1,6 +1,8 @@
 # SUSTC
 CS309 Project - SUSTech User Script Tools Center
 
+An online platform for running scripts, similar to [OnlineGDB](https://www.onlinegdb.com). Users can share their own scripts can others can run it.
+
 # Dependencies
 - Java 1.8+ (Recommand Java 11)
 - Apache Maven
@@ -29,3 +31,7 @@ $ java -jar scriptpro-1.0.0-RELEASE.jar
 $ mvn clean install
 $ mvn spring-boot:run
 ```
+
+# Website
+
+[Main Page](http://155.138.154.142:8080)
